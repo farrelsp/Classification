@@ -1,0 +1,267 @@
+ID,Age,Gender,Employed,Graduate,Work Exp,Salary,Distance,Licence,Transport
+0,35,Female,Yes,0.0,15,37.0,13.5,1,Private Transport
+1,29,Female,No,0.0,7,14.6,9.2,0,Other
+2,29,Female,No,0.0,7,14.6,7.7,0,Public Transport
+3,25,Female,No,0.0,3,9.9,14.6,0,Public Transport
+4,28,Male,Yes,0.0,5,13.6,7.9,0,Public Transport
+5,24,Female,Yes,1.0,1,8.8,12.6,1,Other
+6,26,Male,Yes,1.0,2,9.9,17.7,0,Public Transport
+7,21,Female,No,0.0,3,9.8,11.0,0,Other
+8,27,Male,Yes,0.0,5,12.5,9.3,0,Public Transport
+9,38,Male,Yes,0.0,18,45.0,18.1,1,Private Transport
+10,29,Male,No,1.0,7,15.0,19.0,1,Other
+11,21,Female,Yes,0.0,3,9.6,8.1,0,Public Transport
+12,33,Male,Yes,0.0,14,33.0,17.3,0,Private Transport
+13,30,Male,Yes,0.0,8,15.0,15.5,1,Other
+14,27,Male,Yes,1.0,8,21.8,13.4,0,Public Transport
+15,25,Male,Yes,0.0,3,9.9,17.2,0,Public Transport
+16,26,Male,Yes,0.0,4,12.8,14.2,0,Public Transport
+17,24,Female,Yes,0.0,6,10.5,8.9,0,Public Transport
+18,24,Male,Yes,0.0,2,8.5,8.0,0,Public Transport
+19,22,Female,Yes,0.0,0,6.8,14.5,0,Public Transport
+20,27,Male,Yes,0.0,4,13.5,5.2,0,Public Transport
+21,27,Male,Yes,1.0,6,12.8,11.3,0,Public Transport
+22,28,Female,Yes,0.0,9,21.7,7.3,0,Public Transport
+23,26,Female,Yes,0.0,6,23.0,16.3,0,Other
+24,26,Female,No,0.0,3,9.5,6.3,0,Public Transport
+25,34,Male,Yes,1.0,16,34.9,12.2,0,Public Transport
+26,23,Male,No,0.0,3,9.9,17.9,0,Public Transport
+27,25,Male,Yes,1.0,7,13.6,10.7,0,Other
+28,34,Male,Yes,0.0,14,38.0,21.3,1,Private Transport
+29,24,Male,Yes,0.0,4,10.9,9.0,0,Public Transport
+30,25,Female,Yes,0.0,1,8.9,16.8,0,Other
+31,26,Male,Yes,1.0,8,21.6,8.1,1,Public Transport
+32,22,Male,Yes,0.0,3,8.4,6.8,0,Public Transport
+33,21,Female,Yes,0.0,3,9.8,8.9,0,Public Transport
+34,34,Male,Yes,1.0,15,37.0,12.9,1,Other
+35,29,Male,No,0.0,7,14.7,12.3,0,Public Transport
+36,20,Female,No,1.0,1,8.5,7.9,0,Public Transport
+37,42,Male,Yes,0.0,22,55.0,19.0,1,Private Transport
+38,40,Male,Yes,0.0,22,45.0,19.8,1,Private Transport
+39,26,Female,Yes,0.0,2,9.8,12.2,0,Other
+40,21,Male,No,1.0,3,10.6,7.7,0,Other
+41,24,Male,Yes,0.0,0,7.6,10.0,0,Public Transport
+42,38,Male,No,0.0,19,44.0,12.6,1,Private Transport
+43,24,Male,No,0.0,2,8.6,9.5,1,Public Transport
+44,28,Female,Yes,0.0,6,13.9,10.5,0,Public Transport
+45,19,Female,Yes,0.0,1,7.5,8.1,0,Public Transport
+46,25,Male,Yes,0.0,3,10.6,8.1,0,Public Transport
+47,27,Female,Yes,0.0,5,12.5,6.4,0,Public Transport
+48,21,Male,No,0.0,3,9.8,12.7,0,Public Transport
+49,24,Male,Yes,1.0,1,8.8,12.8,0,Public Transport
+50,27,Female,Yes,0.0,3,10.7,11.7,0,Public Transport
+51,27,Male,No,0.0,7,12.5,9.1,0,Public Transport
+52,27,Male,Yes,0.0,4,13.5,5.3,1,Public Transport
+53,26,Female,Yes,0.0,3,10.8,15.6,0,Public Transport
+54,25,Male,Yes,1.0,4,11.5,5.6,0,Public Transport
+55,38,Male,Yes,0.0,19,51.0,18.8,1,Private Transport
+56,31,Female,Yes,0.0,6,16.9,9.1,0,Private Transport
+57,28,Male,No,0.0,4,14.3,3.2,0,Public Transport
+58,23,Male,No,0.0,2,8.6,6.1,0,Public Transport
+59,26,Male,Yes,1.0,5,12.7,12.2,0,Public Transport
+60,31,Male,No,0.0,11,33.0,17.8,1,Private Transport
+61,26,Male,Yes,0.0,4,12.5,7.4,0,Public Transport
+62,34,Female,No,0.0,14,28.8,15.0,0,Public Transport
+63,37,Male,No,0.0,19,47.0,22.8,1,Private Transport
+64,25,Female,Yes,0.0,2,8.6,11.0,0,Other
+65,23,Female,Yes,1.0,2,8.8,13.1,0,Other
+66,26,Male,Yes,0.0,4,12.9,9.6,0,Public Transport
+67,26,Female,No,0.0,7,18.8,15.7,0,Other
+68,25,Female,Yes,0.0,2,8.8,15.2,0,Other
+69,26,Female,No,0.0,3,9.5,6.2,0,Public Transport
+70,30,Male,Yes,0.0,6,15.8,10.7,0,Public Transport
+71,30,Male,Yes,1.0,8,14.9,10.4,0,Public Transport
+72,28,Male,Yes,1.0,7,13.9,12.1,0,Public Transport
+73,20,Male,Yes,0.0,2,8.5,7.0,0,Public Transport
+74,26,Female,No,0.0,3,9.6,9.9,0,Public Transport
+75,34,Female,Yes,0.0,14,34.0,13.8,0,Private Transport
+76,25,Male,Yes,0.0,7,17.8,8.8,0,Public Transport
+77,34,Male,Yes,1.0,11,17.0,12.8,0,Private Transport
+78,23,Male,Yes,0.0,4,10.6,11.4,0,Other
+79,33,Male,No,0.0,11,17.0,12.3,1,Private Transport
+80,27,Female,Yes,0.0,9,15.5,6.1,0,Other
+81,21,Male,No,0.0,3,9.5,7.1,0,Other
+82,24,Male,Yes,1.0,6,10.6,8.4,1,Public Transport
+83,37,Male,Yes,0.0,19,45.0,21.5,1,Private Transport
+84,24,Male,No,1.0,2,8.5,8.5,1,Public Transport
+85,31,Female,No,0.0,9,14.6,8.2,0,Public Transport
+86,23,Female,Yes,0.0,0,7.7,7.4,0,Public Transport
+87,26,Female,No,0.0,4,12.9,9.4,0,Public Transport
+88,24,Male,No,0.0,2,8.5,6.2,0,Public Transport
+89,26,Female,Yes,0.0,4,12.3,5.9,0,Public Transport
+90,31,Male,Yes,0.0,9,15.6,7.6,0,Public Transport
+91,32,Male,Yes,0.0,9,16.9,11.7,1,Private Transport
+92,30,Female,No,0.0,6,15.6,11.6,0,Public Transport
+93,24,Male,Yes,1.0,2,8.6,6.4,0,Public Transport
+94,30,Female,Yes,0.0,8,14.6,8.1,0,Public Transport
+95,25,Male,No,1.0,4,11.8,12.8,0,Public Transport
+96,33,Male,Yes,0.0,9,17.0,11.6,1,Private Transport
+97,25,Female,Yes,0.0,6,11.6,10.1,0,Other
+98,40,Male,Yes,0.0,20,57.0,21.4,1,Private Transport
+99,32,Male,Yes,0.0,11,14.7,8.4,0,Public Transport
+100,30,Female,Yes,0.0,8,14.7,11.4,1,Other
+101,27,Male,Yes,0.0,9,20.8,15.1,0,Public Transport
+102,28,Female,Yes,1.0,7,13.0,21.0,1,Other
+103,31,Female,No,1.0,9,14.6,11.1,0,Public Transport
+104,31,Male,Yes,0.0,8,15.9,16.4,0,Public Transport
+105,23,Male,No,0.0,2,8.8,8.6,0,Public Transport
+106,28,Male,Yes,0.0,6,13.9,9.5,0,Public Transport
+107,26,Male,Yes,0.0,4,12.3,4.8,1,Public Transport
+108,23,Female,Yes,1.0,4,8.4,7.1,0,Public Transport
+109,27,Male,Yes,1.0,6,12.9,9.5,0,Public Transport
+110,39,Male,Yes,0.0,21,39.9,10.0,1,Private Transport
+111,40,Female,Yes,0.0,20,42.9,15.5,0,Private Transport
+112,27,Male,No,0.0,9,23.9,14.1,0,Public Transport
+113,34,Male,Yes,0.0,13,16.5,5.9,0,Public Transport
+114,40,Male,Yes,1.0,20,41.9,16.9,1,Private Transport
+115,24,Male,Yes,0.0,1,7.8,13.1,0,Public Transport
+116,31,Male,Yes,0.0,12,43.0,13.0,1,Private Transport
+117,28,Female,Yes,1.0,5,13.4,4.5,0,Public Transport
+118,23,Male,Yes,0.0,2,8.5,6.1,0,Public Transport
+119,29,Male,Yes,0.0,5,14.9,11.2,0,Public Transport
+120,28,Male,Yes,0.0,6,13.7,7.5,1,Other
+121,39,Male,Yes,0.0,21,40.9,16.3,0,Private Transport
+122,39,Male,Yes,1.0,19,38.9,9.0,1,Private Transport
+123,28,Female,Yes,0.0,5,13.6,7.5,0,Public Transport
+124,27,Male,Yes,1.0,5,13.5,8.8,0,Public Transport
+125,26,Male,No,0.0,3,9.8,12.2,1,Public Transport
+126,24,Female,Yes,1.0,2,8.7,12.6,0,Other
+127,30,Female,Yes,0.0,8,14.6,6.3,0,Public Transport
+128,26,Female,Yes,0.0,4,12.9,11.1,0,Other
+129,27,Female,Yes,1.0,5,13.8,9.8,0,Public Transport
+130,28,Male,Yes,1.0,7,13.6,6.3,0,Public Transport
+131,26,Female,Yes,0.0,3,10.5,5.1,0,Public Transport
+132,28,Male,Yes,0.0,5,13.9,16.4,0,Public Transport
+133,20,Male,Yes,0.0,2,8.8,8.7,1,Public Transport
+134,27,Female,Yes,0.0,8,24.9,13.0,0,Public Transport
+135,24,Male,Yes,0.0,0,7.9,17.1,0,Other
+136,28,Male,Yes,0.0,6,13.7,8.9,0,Public Transport
+137,26,Female,Yes,0.0,3,10.8,8.9,0,Public Transport
+138,24,Female,No,0.0,2,9.0,14.2,0,Other
+139,30,Male,Yes,1.0,8,14.7,12.6,0,Public Transport
+140,27,Male,Yes,0.0,6,12.9,13.3,0,Public Transport
+141,28,Male,Yes,0.0,5,13.8,15.5,0,Public Transport
+142,26,Female,Yes,0.0,4,12.8,13.6,1,Other
+143,27,Male,Yes,0.0,8,20.7,12.2,0,Other
+144,37,Male,Yes,1.0,18,41.0,15.9,1,Private Transport
+145,23,Female,No,0.0,0,6.8,9.3,0,Public Transport
+146,22,Male,Yes,0.0,0,6.9,13.2,0,Other
+147,30,Male,Yes,1.0,10,28.8,11.9,1,Other
+148,27,Female,Yes,0.0,5,12.8,9.7,0,Other
+149,27,Male,No,1.0,8,20.7,10.7,0,Public Transport
+150,24,Male,Yes,0.0,6,12.7,8.7,0,Other
+151,26,Female,Yes,0.0,6,17.8,10.4,0,Public Transport
+152,25,Male,Yes,0.0,1,8.6,9.4,0,Public Transport
+153,25,Male,Yes,0.0,3,10.7,10.8,0,Public Transport
+154,26,Male,Yes,0.0,2,9.6,9.5,0,Public Transport
+155,29,Male,Yes,0.0,9,13.7,11.4,0,Public Transport
+156,32,Female,Yes,1.0,9,16.9,10.1,0,Private Transport
+157,22,Female,Yes,0.0,2,8.5,8.1,0,Other
+158,27,Male,Yes,1.0,4,13.6,10.4,0,Public Transport
+159,22,Male,Yes,0.0,0,7.0,13.5,0,Other
+160,27,Male,No,0.0,3,9.5,7.9,1,Public Transport
+161,26,Male,Yes,0.0,4,12.8,11.6,0,Public Transport
+162,23,Male,Yes,1.0,2,8.9,15.8,0,Public Transport
+163,26,Male,Yes,0.0,2,10.0,16.4,1,Other
+164,27,Male,No,1.0,8,15.6,9.0,0,Other
+165,26,Female,Yes,0.0,8,14.6,11.6,0,Public Transport
+166,27,Male,Yes,1.0,6,12.9,15.6,0,Public Transport
+167,25,Female,Yes,0.0,5,18.9,12.2,0,Other
+168,26,Male,Yes,0.0,5,11.7,13.0,0,Public Transport
+169,36,Male,No,0.0,17,39.0,10.0,1,Private Transport
+170,27,Female,Yes,0.0,5,12.9,10.6,0,Public Transport
+171,29,Male,No,0.0,6,14.6,10.1,0,Public Transport
+172,28,Male,Yes,0.0,4,14.9,13.7,0,Public Transport
+173,30,Male,Yes,0.0,8,14.8,12.0,0,Public Transport
+174,25,Male,No,0.0,2,8.6,6.7,1,Public Transport
+175,28,Male,Yes,0.0,5,13.6,9.3,0,Public Transport
+176,26,Female,No,0.0,5,12.8,13.2,0,Other
+177,36,Male,Yes,1.0,18,28.7,10.4,1,Public Transport
+178,26,Male,Yes,1.0,6,11.7,11.7,0,Public Transport
+179,30,Male,Yes,0.0,7,14.9,14.0,0,Public Transport
+180,24,Male,Yes,0.0,4,8.5,7.5,0,Other
+181,26,Male,Yes,0.0,5,12.8,8.8,0,Public Transport
+182,24,Male,No,0.0,0,6.9,15.3,0,Other
+183,33,Male,Yes,0.0,11,16.7,10.9,1,Private Transport
+184,28,Male,Yes,0.0,5,14.4,5.1,0,Other
+185,18,Male,No,0.0,0,6.7,13.0,0,Other
+186,23,Male,Yes,0.0,0,8.0,15.9,0,Other
+187,26,Male,Yes,0.0,2,9.5,9.6,0,Public Transport
+188,26,Male,Yes,1.0,3,10.8,9.4,0,Public Transport
+189,26,Male,Yes,1.0,4,12.9,10.0,0,Public Transport
+190,27,Male,Yes,0.0,4,13.8,10.1,0,Public Transport
+191,25,Female,Yes,0.0,4,11.5,5.2,0,Public Transport
+192,24,Male,Yes,0.0,1,7.7,12.4,1,Public Transport
+193,28,Male,Yes,0.0,4,14.6,8.6,0,Public Transport
+194,29,Male,No,0.0,7,14.6,8.1,0,Public Transport
+195,26,Male,No,0.0,3,9.5,6.8,0,Public Transport
+196,32,Male,No,0.0,9,16.9,12.2,1,Private Transport
+197,27,Female,Yes,1.0,4,13.8,9.8,0,Public Transport
+198,27,Female,No,0.0,4,13.9,17.3,0,Public Transport
+199,25,Female,Yes,0.0,5,17.8,12.1,0,Public Transport
+200,28,Male,Yes,0.0,5,14.7,10.5,1,Other
+201,38,Male,Yes,0.0,18,36.9,11.9,1,Private Transport
+202,24,Male,Yes,1.0,0,7.8,10.7,0,Public Transport
+203,39,Male,Yes,0.0,21,46.0,18.1,1,Private Transport
+204,29,Male,No,0.0,6,14.7,10.4,0,Public Transport
+205,27,Female,No,1.0,4,13.6,8.2,0,Public Transport
+206,22,Male,Yes,1.0,0,6.9,15.7,0,Public Transport
+207,28,Male,Yes,0.0,6,13.6,9.7,1,Public Transport
+208,30,Male,Yes,0.0,6,15.8,14.3,0,Public Transport
+209,26,Male,No,0.0,3,9.9,9.4,0,Public Transport
+210,29,Male,Yes,0.0,7,13.4,4.1,0,Public Transport
+211,25,Male,Yes,0.0,4,11.6,8.3,0,Public Transport
+212,27,Male,Yes,0.0,4,13.9,14.2,0,Public Transport
+213,26,Male,Yes,1.0,4,12.4,7.6,0,Public Transport
+214,23,Female,Yes,1.0,2,9.0,17.9,0,Other
+215,26,Male,Yes,0.0,4,12.7,9.0,1,Public Transport
+216,25,Male,Yes,0.0,2,8.9,15.8,0,Public Transport
+217,32,Male,Yes,0.0,10,15.7,8.4,0,Public Transport
+218,33,Male,Yes,1.0,11,15.6,9.3,0,Public Transport
+219,38,Male,Yes,1.0,20,42.0,14.1,1,Private Transport
+220,22,Male,Yes,1.0,0,6.9,13.0,0,Other
+221,24,Male,Yes,1.0,6,11.6,11.3,1,Public Transport
+222,24,Male,No,0.0,2,8.7,8.4,0,Public Transport
+223,24,Female,Yes,0.0,1,8.8,15.8,0,Other
+224,29,Male,Yes,0.0,6,14.6,7.6,0,Public Transport
+225,30,Male,No,0.0,8,14.6,6.1,0,Public Transport
+226,25,Female,No,0.0,3,9.6,6.7,0,Other
+227,28,Female,No,,6,13.7,9.4,0,Public Transport
+228,26,Female,Yes,0.0,3,10.8,9.0,0,Public Transport
+229,28,Male,Yes,0.0,6,13.8,12.9,0,Public Transport
+230,30,Male,Yes,1.0,8,14.6,10.6,0,Public Transport
+231,24,Male,No,1.0,2,8.7,10.1,0,Public Transport
+232,24,Male,No,0.0,2,8.7,7.6,0,Public Transport
+233,29,Female,Yes,0.0,6,14.9,17.0,0,Public Transport
+234,27,Female,Yes,0.0,7,23.8,14.4,0,Other
+235,29,Male,No,0.0,5,14.8,15.4,0,Public Transport
+236,30,Female,Yes,0.0,6,15.8,12.9,0,Public Transport
+237,28,Male,Yes,1.0,6,13.7,11.9,0,Public Transport
+238,38,Male,Yes,0.0,19,48.0,14.1,1,Private Transport
+239,23,Male,Yes,0.0,0,6.9,11.7,0,Other
+240,28,Male,No,1.0,10,20.7,9.0,0,Public Transport
+241,25,Female,Yes,0.0,1,8.6,9.4,0,Public Transport
+242,28,Male,Yes,0.0,3,10.9,13.6,0,Public Transport
+243,31,Male,Yes,0.0,7,15.9,13.7,0,Public Transport
+244,26,Male,Yes,0.0,2,8.6,11.0,1,Public Transport
+245,39,Male,Yes,0.0,19,47.0,11.2,1,Private Transport
+246,27,Male,No,0.0,6,12.6,8.1,0,Public Transport
+247,28,Female,Yes,0.0,6,13.9,15.1,0,Public Transport
+248,24,Male,Yes,1.0,3,9.9,10.9,0,Public Transport
+249,24,Male,Yes,1.0,0,7.9,9.1,0,Public Transport
+250,27,Male,No,0.0,5,13.8,15.2,0,Public Transport
+251,29,Female,No,0.0,7,13.6,11.7,0,Public Transport
+252,31,Male,Yes,0.0,7,17.0,12.4,1,Private Transport
+253,38,Male,Yes,0.0,19,54.0,13.6,1,Private Transport
+254,29,Male,Yes,0.0,6,14.8,10.1,0,Public Transport
+255,36,Female,Yes,0.0,17,38.0,18.0,1,Private Transport
+256,27,Male,No,0.0,3,9.8,15.7,1,Public Transport
+257,24,Female,Yes,0.0,2,9.0,15.1,0,Other
+258,24,Male,Yes,0.0,1,8.9,12.7,0,Public Transport
+259,25,Female,Yes,0.0,3,10.6,8.8,0,Public Transport
+260,27,Male,No,1.0,5,13.9,10.0,0,Public Transport
+261,31,Male,Yes,0.0,10,14.9,12.1,0,Public Transport
+262,38,Female,Yes,0.0,20,43.0,17.0,1,Private Transport
+263,27,Male,Yes,0.0,4,13.8,12.4,0,Public Transport
+264,30,Male,Yes,1.0,11,35.0,18.3,1,Private Transport
+265,22,Male,No,0.0,1,7.9,16.3,1,Other
